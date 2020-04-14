@@ -1,0 +1,18 @@
+[
+  {
+    "action": "talk",
+    "text": "Please wait while we connect you"
+  },
+  {
+    "action": "connect",
+    "eventUrl": ["https://enta0nuq3wq4p.x.pipedream.net/"],
+    "timeout": "45",
+    "from": "13049336942",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "15127052184"
+      }
+    ]
+  }
+]
